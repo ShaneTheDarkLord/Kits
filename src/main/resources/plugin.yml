@@ -1,0 +1,7 @@
+name: Kits
+version: ${project.version}
+main: me.shane.gui.kits.Kits
+depend: [PlaceholderAPI]
+commands:
+  kits:
+    description: Shows a gui of kits and cooldowns(soon)
